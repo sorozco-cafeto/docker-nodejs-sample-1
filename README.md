@@ -5,3 +5,6 @@
 ````
 primerito
 ##Segundito
+
+para ejecutar local correr:
+npm run dev
